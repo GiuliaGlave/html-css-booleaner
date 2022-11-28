@@ -1,14 +1,28 @@
 /*header*/
+body{
+    margin: 0%;
+}
+
 .logo{
     width: 150px; 
-    
-}
-.logo{
-    background-image:url(./img/pattern.png); 
-     
+    padding-top: 50px;
+    padding-left: 10px;
+    }
+
+header{
+    height: 100px;
+    background-color: rgb(79, 118, 247);
+    background-image:url(./img/pattern.png);
+    background-size: 30%; 
+    background-position-y: 190px;
+
+
 }
 
 /*titolo e foto*/
+main {
+    margin-left: 8px;
+}
 h1{
     font-size: 2em;
     font-weight: bolder;
@@ -20,7 +34,7 @@ h4{
 .scritta-foto{
     font-size: 12px;
 }
-
+/*table*/
 table{
     width: auto;
     border-spacing: 0;
@@ -42,6 +56,7 @@ thead{
     background-color: rgb(132, 233, 253);
 }
 
+/*footer*/
 .container-footer{
     height: 400px;
     
