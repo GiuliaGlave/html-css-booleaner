@@ -21,8 +21,18 @@ h4{
     font-size: 12px;
 }
 
+table{
+    width: auto;
+}
+.colonna-1{
+    width: 25%;
+}
+.colonna-2{
+    width: 25%;
+}
 thead{
     background-color: rgb(31, 156, 233);
+
 }
 
 .riga-blu{
