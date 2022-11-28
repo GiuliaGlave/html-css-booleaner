@@ -23,6 +23,7 @@ h4{
 
 table{
     width: auto;
+    border-spacing: 0;
 }
 .colonna-1{
     width: 25%;
@@ -32,9 +33,11 @@ table{
 }
 thead{
     background-color: rgb(31, 156, 233);
+    color: #ffffff;
+    text-align: left;
 
 }
 
 .riga-blu{
-    background-color: rgb(33, 215, 251);
+    background-color: rgb(132, 233, 253);
 }
