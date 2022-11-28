@@ -20,3 +20,11 @@ h4{
 .scritta-foto{
     font-size: 12px;
 }
+
+thead{
+    background-color: rgb(31, 156, 233);
+}
+
+.riga-blu{
+    background-color: rgb(33, 215, 251);
+}
