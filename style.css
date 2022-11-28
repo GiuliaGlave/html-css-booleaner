@@ -1,0 +1,22 @@
+/*header*/
+.logo{
+    width: 150px; 
+    
+}
+.logo{
+    background-image:url(./img/pattern.png); 
+     
+}
+
+/*titolo e foto*/
+h1{
+    font-size: 2em;
+    font-weight: bolder;
+}
+h4{
+    color: grey;
+}
+
+.scritta-foto{
+    font-size: 12px;
+}
